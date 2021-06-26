@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://www.demoqa.com/",
+    "testFiles": "**/*.{feature,features}",
+    "ignoreTestFiles": ["*.js", "*.ts", "*.md"],
+    "defaultCommandTimeout": 5000,
+    "viewportWidth": 1360,
+    "viewportHeight": 790
+  }

@@ -1,0 +1,4 @@
+cypress/videos
+.vscode/settings.json
+node_modules
+
