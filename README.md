@@ -1,4 +1,4 @@
-# nexoTask
+# Cypress Cucumber Task
 # Steps to run tests
 * Clone repo
 * Install yarn 
